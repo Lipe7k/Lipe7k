@@ -87,7 +87,7 @@
     alt="GitHub Stats" 
     height="180" 
     style="padding-right: 5px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Lipe7k&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github.com/lipe7k" 
   />
 
 <img 
