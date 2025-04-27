@@ -24,7 +24,7 @@
 
  
   <div>
-    <h1>Hi there, I'm Felipe Falcirolli</h1>
+    <h2>Hi there, I'm Felipe Falcirolli</h2>
     <p>I work with HTML, CSS, JavaScript, and Python, creating responsive and dynamic websites. I'm passionate about design and always aim to combine aesthetics and functionality in my projects. I'm looking for new challenges and opportunities to grow in the field.  </p>
   </div>
 
