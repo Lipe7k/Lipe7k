@@ -14,6 +14,7 @@
   ##
   
   <div>
-  <a href="mailto:lipefalcirolli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
+  <a href="mailto:lipefalcirolli@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
   </div>
