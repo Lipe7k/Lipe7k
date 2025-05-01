@@ -1,6 +1,6 @@
 <!-- Animação de digitação -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&width=435&lines=Hi%2C+I'm+Felipe+Falcirolli!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&width=435&lines=Hi%2C+I'm+Felipe+Falcirolli!" alt="Typing SVG" align="center"/>
 </p>
 
 <p align="center">
