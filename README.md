@@ -14,8 +14,9 @@
 
 <h3 align="left">Contact me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=58A6FF&color:FFF)](mailto:lipefalcirolli@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=58A6FF&color:FFF)](https://www.instagram.com/lipexyz0/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=58A6FF&color:FFF)](mailto:lipefalcirolli@gmail.com){:target="_blank"}
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=58A6FF&color:FFF)](https://www.instagram.com/lipexyz0/){:target="_blank"}
+
 
 
 <h3 align="left">🔥 My Skills</h3>
