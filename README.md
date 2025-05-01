@@ -20,9 +20,7 @@
     <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+    
   </span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaço entre as colunas -->
-  <span>
     <img align=""right src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V6am1oeXQ0ejcwbjF6Mm1mMG5qZjd4b21kOWpod2c1Zmtra3VmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4KhQo2MESJkc6QbS/giphy.gif" width="150" alt="Rocket gif">
-  </span>
 </p>
