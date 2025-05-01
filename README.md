@@ -13,7 +13,7 @@
 
 ### 🚀 My Skills
 
-<div align="center">
+<div align="center" justify="center">
   <div style="display: inline-block; vertical-align: top; margin-right: 50px;">
     <img align="center" alt="m-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="m-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
