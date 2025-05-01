@@ -36,8 +36,8 @@
 
 <div align="left"> <!-- trocar para "center" quando as curiosidades estiverem ativadas -->
   <a href="https://github.com/Lipe7k">
-  <img max-height="200em" src="https://github-readme-stats.vercel.app/api?username=lipe7k&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img max-height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lipe7k&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lipe7k&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lipe7k&layout=compact&langs_count=7&theme=dracula"/>
 </div>
     
 </div>
