@@ -14,13 +14,9 @@
 
 <h3 align="left">Contact me!</h3>
 
-<a href="mailto:lipefalcirolli@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=58A6FF&color:FFF" alt="Email">
-</a>
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=58A6FF&color:FFF)](mailto:lipefalcirolli@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=58A6FF&color:FFF)](https://www.instagram.com/lipexyz0/)
 
-<a href="https://www.instagram.com/lipexyz0/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=58A6FF&color:FFF" alt="Instagram">
-</a>
 
 
 
