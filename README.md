@@ -10,7 +10,7 @@
 </p>
 
 ---
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="190px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V6am1oeXQ0ejcwbjF6Mm1mMG5qZjd4b21kOWpod2c1Zmtra3VmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4KhQo2MESJkc6QbS/giphy.gif">
 
 <h3 align="left">Connect with me!</h3>
 
