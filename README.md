@@ -14,11 +14,11 @@
 
 <h3 align="left">Contact me!</h3>
 
-<a href="mailto:lipefalcirolli@gmail.com" target="_blank" style="text-decoration: none; border: none; outline: none;">
+<a href="mailto:lipefalcirolli@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=58A6FF&color:FFF" alt="Email">
 </a>
 
-<a href="https://www.instagram.com/lipexyz0/" target="_blank" style="text-decoration: none; border: none; outline: none;">
+<a href="https://www.instagram.com/lipexyz0/">
   <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=58A6FF&color:FFF" alt="Instagram">
 </a>
 
