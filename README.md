@@ -23,6 +23,6 @@
   </span>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaço entre as colunas -->
   <span>
-    <img src="[https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V6am1oeXQ0ejcwbjF6Mm1mMG5qZjd4b21kOWpod2c1Zmtra3VmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4KhQo2MESJkc6QbS/giphy.gif)" width="150" alt="Rocket gif">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V6am1oeXQ0ejcwbjF6Mm1mMG5qZjd4b21kOWpod2c1Zmtra3VmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4KhQo2MESJkc6QbS/giphy.gif" width="150" alt="Rocket gif">
   </span>
 </p>
