@@ -40,9 +40,9 @@
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lipe7k&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=004cff&text_color=FFF&border_radius=3&border_color=1b477d&icon_color=006aff&theme=jolly" alt="GitHub stats">
-
-  <a href="https://github.com/lipe7k/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lipe7k&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=006aff&hide=html,scss,less&bg_color=000&text_color=FFF&border_radius=3&border_color=1b477d&count_private=true" alt="Most Used Languages">
-  </a>
+<div align="left"> 
+  <a href="https://github.com/lipe7k">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lipe7k&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipe7k&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 </div>
