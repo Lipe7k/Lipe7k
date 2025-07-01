@@ -54,8 +54,3 @@ I'm a passionate **Full-Stack Developer in the making**, with a strong focus on:
   </a>
 </div>
 
----
-
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V6am1oeXQ0ejcwbjF6Mm1mMG5qZjd4b21kOWpod2c1Zmtra3VmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4KhQo2MESJkc6QbS/giphy.gif" height="160" alt="Coding Cat GIF" />
-</div>
