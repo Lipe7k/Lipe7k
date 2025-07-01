@@ -1,4 +1,3 @@
-<!-- Perfil animado -->
 <p align="center">
   <a href="https://github.com/lipe7k">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&width=435&lines=Hi%2C+I'm+Felipe+Falcirolli!;Web+Developer+%7C+Creative+Thinker+%7C+Lifelong+Learner" alt="Typing SVG" />
@@ -11,12 +10,12 @@
 
 I'm a passionate **Full-Stack Developer in the making**, with a strong focus on:
 
-- 🌐 **HTML, CSS, JavaScript** for dynamic web interfaces  
-- 🎨 Clean UI/UX design, blending functionality with aesthetics  
-- 🐍 Backend logic with **Python** and exploring frameworks  
-- 🚀 Currently learning **Tailwind CSS**, **React**, and more  
+- 🌐 **HTML, CSS, JavaScript** for dynamic and responsive UIs  
+- 🎨 Design lover — I care about clean UI/UX  
+- 🐍 Writing backend logic with **Python** and now **Node.js**  
+- 🚀 Currently diving into **Tailwind**, **React**, and **MySQL**  
 
-> 💡 I'm always looking for new challenges and opportunities to grow in tech.
+> 💡 Always looking for new challenges and opportunities to grow in tech.
 
 ---
 
@@ -26,15 +25,15 @@ I'm a passionate **Full-Stack Developer in the making**, with a strong focus on:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="TailwindCSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="Node JS"/>
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
 </div>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lipe7k&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
@@ -54,3 +53,8 @@ I'm a passionate **Full-Stack Developer in the making**, with a strong focus on:
   </a>
 </div>
 
+---
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V6am1oeXQ0ejcwbjF6Mm1mMG5qZjd4b21kOWpod2c1Zmtra3VmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4KhQo2MESJkc6QbS/giphy.gif" height="160" alt="Coding Cat GIF" />
+</p>
