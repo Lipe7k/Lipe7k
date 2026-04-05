@@ -9,13 +9,23 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate **Full-Stack Developer in the making**, with a strong focus on:
+I'm a developer focused on building real projects and improving consistently.
 
-- 🌐 **HTML, CSS, JavaScript** for dynamic web interfaces  
-- 🎨 Clean UI/UX design, blending functionality with aesthetics  
-- 🐍 Backend logic with **Python** and exploring frameworks  
-- 🚀 Currently learning **Node JS**, **API Rest**, and more  
+## 🚀 What I actually use
 
+- JavaScript (core language)
+- React + Tailwind → building interfaces
+- Node.js → creating APIs (CRUD, routes, requests)
+- PostgreSQL + Drizzle → database modeling and queries
+- Git & GitHub → versioning and project management
+
+## 📚 Currently learning
+
+- Improving backend structure with Node.js
+- API design (REST)
+- Better database modeling
+
+  
 > 💡 I'm always looking for new challenges and opportunities to grow in tech.
 
 ---
