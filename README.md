@@ -45,14 +45,6 @@ I'm a developer focused on building real projects and improving consistently.
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lipe7k&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lipe7k&layout=compact&langs_count=7&theme=dracula" />
-</p>
-
----
 
 ### 📬 Contact Me
 
